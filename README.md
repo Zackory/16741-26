@@ -65,7 +65,7 @@ Modern Robotics: Mechanics, Planning, and Control, by Kevin M. Lynch and Frank C
 | **Week 13** <br> Mon, <br> Nov 16 | Force Control |   |
 | **Week 13** <br> Wed, <br> Nov 18 | Rigid Body Dynamics |  |
 | **Week 14** <br> Mon, <br> Nov 23 | Dynamics and Frictional Contact; Impact | **Deadline: Assignment 5** |
-| **Week 14** <br> Wed, <br> Nov 25 | No class; Thanksgiving break | **Deadline (Nov 29): Google Slides for <br> your project presentation** |
+| **Week 14** <br> Wed, <br> Nov 25 | No class; Thanksgiving break | **Deadline (Nov 28): Google Slides for <br> your project presentation** |
 | **Week 15** <br> Mon, <br> Nov 30 | Course Project Presentations |  |
 | **Week 15** <br> Wed, <br> Dec 2 | Course Project Presentations | **Deadline: Course project paper** |
 
