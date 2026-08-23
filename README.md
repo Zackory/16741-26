@@ -1,19 +1,20 @@
-# 16-741: Mechanics of Manipulation (Fall 2025)
+# 16-741: Mechanics of Manipulation (Fall 2026)
 
 ## Course Info
 
-#### [Syllabus](https://docs.google.com/document/d/1Ra-eJYID1UHVQEjCREWakrx9h5TW2WKno_sdeM9qrmg/edit?usp=sharing)  
+#### [Syllabus](https://docs.google.com/document/d/1yh3otDErIfgwjo4AVFrq9e5zQE862tFPNOOF8Y4X454/edit?usp=sharing)  
 
 **Time**: Monday & Wednesday 11:00 AM - 12:20 PM  
 **Location**: NSH 1305  
 **Instructor**: [Zackory Erickson](https://zackory.com)  
 **Office Hours**: Upon request  
+**TAs**: [Zheyuan Hu](https://huzheyuan.io) and [Jim Wang](https://jimwang418.github.io)
 
 ---
 
 ## Course Description
 
-Mechanics of Manipulation is a graduate level course that dives into the fundamentals of robotic manipulation. Through this course you will learn the kinematics, statics, and dynamics of robotic manipulators as they interact with the world to accomplish tasks. You will gain experience with the intelligent use of kinematic constraint, gravity, and frictional forces. Additional topics include rigid body mechanics, automatic planning based on mechanics, deformable manipulation, and simulation of dynamic manipulation. Applications of robotic manipulation are drawn from physical human-robot interaction, manufacturing, and other domains.
+Mechanics of Manipulation is a graduate level course that dives into the fundamentals of robotic manipulation. Through this course you will learn the kinematics, statics, and dynamics of robotic manipulators as they interact with the world to accomplish tasks. You will gain experience with the intelligent use of kinematic constraint, gravity, and frictional forces. Additional topics include rigid body mechanics, automatic planning based on mechanics, deformable manipulation, and simulation of dynamic manipulation. Applications of robotic manipulation are drawn from manufacturing, logistics, physical human-robot interaction, and other domains.
 
 ## Textbooks
 
@@ -37,36 +38,36 @@ Modern Robotics: Mechanics, Planning, and Control, by Kevin M. Lynch and Frank C
 
 | Date | Topic | Notes |
 |---|---|---|
-| **Week 1** <br> Mon, <br> Aug 25 | Introduction | [Syllabus](https://docs.google.com/document/d/18LLbaWV4n5VTQ_BaUNIG60inzvl8auBHWeLrcKfUpIc/edit?usp=sharing) <br> Install [Manipulation Engine](https://github.com/Zackory/mengine) |
-| **Week 1** <br> Wed, <br> Aug 27 | Let's get you a robot | [Modern Robotics, Chapter 11.4](https://modernrobotics.northwestern.edu/nu-gm-book-resource/11-4-motion-control-with-torque-or-force-inputs-part-3-of-3/) <br> [Robotic Manipulation, Chapter 2](https://manipulation.csail.mit.edu/robot.html) <br> [Manipulation Engine](https://github.com/Zackory/mengine/tree/main) |
-| **Week 2** <br> Mon, <br> Sept 1 | No class; Labor Day |   |
-| **Week 2** <br> Wed, <br> Sept 3 | Kinematic Foundations | **Assignment 1 released** <br> [Mechanics of Robotic Manipulation, Chapter 2.1](https://direct.mit.edu/books/monograph/3869/chapter-abstract/162858/Kinematics?redirectedFrom=fulltext) <br> [Modern Robotics, Chapter 2](https://hades.mech.northwestern.edu/images/7/7f/MR.pdf) |
-| **Week 3** <br> Mon, <br> Sept 8 | Spatial Rotation Representations | [Mechanics of Robotic Manipulation, Chapter 3](https://direct.mit.edu/books/monograph/3869/chapter-abstract/162859/Kinematic-Representation?redirectedFrom=fulltext) <br> [Robotic Manipulation, Chapter 3.3](https://manipulation.csail.mit.edu/pick.html#spatial_algebra) <br> [Modern Robotics, Chapter 3.2](https://hades.mech.northwestern.edu/images/7/7f/MR.pdf) |
-| **Week 3** <br> Wed, <br> Sept 10 | Forward and Inverse Kinematics | [Robotic Manipulation, Chapters 3.4 - 3.6](https://manipulation.csail.mit.edu/pick.html#kinematics) <br> [Modern Robotics, Chapters 4 and 6](https://hades.mech.northwestern.edu/images/7/7f/MR.pdf) |
-| **Week 4** <br> Mon, <br> Sept 15 | Quaternions | [Mechanics of Robotic Manipulation, Chapter 3.1](https://direct.mit.edu/books/monograph/3869/chapter-abstract/162859/Kinematic-Representation?redirectedFrom=fulltext) <br> [Modern Robotics, Appendix B.3](https://hades.mech.northwestern.edu/images/7/7f/MR.pdf) |
-| **Week 4** <br> Wed, <br> Sept 17 | Planar Kinematics | **Deadline: Assignment 1** <br> **Assignment 2 released** <br> [Mechanics of Robotic Manipulation, Chapter 2.2](https://direct.mit.edu/books/monograph/3869/chapter/162858/Kinematics) <br> [Modern Robotics, Chapter 2.2](https://hades.mech.northwestern.edu/images/7/7f/MR.pdf) |
-| **Week 5** <br> Mon, <br> Sept 22 | Spatial Kinematics I - Plucker Coordinates | [Mechanics of Robotic Manipulation, Chapter 2.3](https://direct.mit.edu/books/monograph/3869/chapter/162858/Kinematics) <br> [Modern Robotics, Chapter 3.3](https://hades.mech.northwestern.edu/images/7/7f/MR.pdf) |
-| **Week 5** <br> Wed, <br> Sept 24 | Spatial Kinematics II - Screw Coordinates | [Mechanics of Robotic Manipulation, Chapter 2.3](https://direct.mit.edu/books/monograph/3869/chapter/162858/Kinematics) <br> [Modern Robotics, Chapter 3.3](https://hades.mech.northwestern.edu/images/7/7f/MR.pdf) |
-| **Week 6** <br> Mon, <br> Sept 29 | Pick & Place and Path Planning (taught by [Yufei Wang](https://yufeiwang63.github.io)) | [Mechanics of Robotic Manipulation, Chapter 4.1](https://direct.mit.edu/books/monograph/3869/chapter/162860/Kinematic-Manipulation) <br> [Robotic Manipulation, Chapter 3](https://manipulation.csail.mit.edu/pick.html) |
-| **Week 6** <br> Wed, <br> Oct 1 | Constraint and  Reuleaux's Method | **Deadline: Assignment 2** <br> **Assignment 3 released** <br> [Mechanics of Robotic Manipulation, Chapter 2.3](https://direct.mit.edu/books/monograph/3869/chapter/162858/Kinematics) <br> [Modern Robotics, Chapter 2.5](https://hades.mech.northwestern.edu/images/7/7f/MR.pdf) |
-| **Week 7** <br> Mon, <br> Oct 6 | Representing Constraint | [Mechanics of Robotic Manipulation, Chapter 3.3](https://direct.mit.edu/books/monograph/3869/chapter/162859/Kinematic-Representation) |
-| **Week 7** <br> Wed, <br> Oct 8 | Manipulation in Clutter | **Deadline: Project Proposal** <br> [Mechanics of Robotic Manipulation, Chapter 4.3](https://direct.mit.edu/books/monograph/3869/chapter/162860/Kinematic-Manipulation) |
-| **Week 8** <br> Mon, <br> Oct 13 | No class; Fall break |   |
-| **Week 8** <br> Wed, <br> Oct 15 | No class; Fall break |   |
-| **Week 9** <br> Mon, <br> Oct 20 | Imitation Learning (taught by [Yufei Wang](https://yufeiwang63.github.io)) |   |
-| **Week 9** <br> Wed, <br> Oct 22 | Deformable manipulation and Model-Predictive Control <br> (taught by [Yufei Wang](https://yufeiwang63.github.io)) | **Deadline: Assignment 3** <br> **Assignment 4 released** |
-| **Week 10** <br> Mon, <br> Oct 27 | Foundations of Statics |   |
-| **Week 10** <br> Wed, <br> Oct 29 | Polyhedral Convex Cones |   |
-| **Week 11** <br> Mon, <br> Nov 3 | Friction |   |
-| **Week 11** <br> Wed, <br> Nov 5 | Planar Sliding | **Deadline: Assignment 4** <br> **Assignment 5 released** |
-| **Week 12** <br> Mon, <br> Nov 10 | Pushing |   |
-| **Week 12** <br> Wed, <br> Nov 12 | Grasps, Fixtures, Closures |   |
-| **Week 13** <br> Mon, <br> Nov 17 | Force Control |   |
-| **Week 13** <br> Wed, <br> Nov 19 | Rigid Body Dynamics |  |
-| **Week 14** <br> Mon, <br> Nov 24 | Dynamics and Frictional Contact; Impact | **Deadline: Assignment 5** |
-| **Week 14** <br> Wed, <br> Nov 26 | No class; Thanksgiving break | **Deadline (Nov 30): Google Slides for <br> your project presentation** |
-| **Week 15** <br> Mon, <br> Dec 1 | Course Project Presentations |  |
-| **Week 15** <br> Wed, <br> Dec 3 | Course Project Presentations | **Deadline: Course project paper** |
+| **Week 1** <br> Mon, <br> Aug 24 | Introduction | [Syllabus](https://docs.google.com/document/d/18LLbaWV4n5VTQ_BaUNIG60inzvl8auBHWeLrcKfUpIc/edit?usp=sharing) <br> Install [Manipulation Engine](https://github.com/Zackory/mengine) |
+| **Week 1** <br> Wed, <br> Aug 26 | Let's get you a robot | [Modern Robotics, Chapter 11.4](https://modernrobotics.northwestern.edu/nu-gm-book-resource/11-4-motion-control-with-torque-or-force-inputs-part-3-of-3/) <br> [Robotic Manipulation, Chapter 2](https://manipulation.csail.mit.edu/robot.html) <br> [Manipulation Engine](https://github.com/Zackory/mengine/tree/main) |
+| **Week 2** <br> Mon, <br> Aug 31 | Kinematic Foundations | **Assignment 1 released** <br> [Mechanics of Robotic Manipulation, Chapter 2.1](https://direct.mit.edu/books/monograph/3869/chapter-abstract/162858/Kinematics?redirectedFrom=fulltext) <br> [Modern Robotics, Chapter 2](https://hades.mech.northwestern.edu/images/7/7f/MR.pdf) |
+| **Week 2** <br> Wed, <br> Sept 2 | Spatial Rotation Representations | [Mechanics of Robotic Manipulation, Chapter 3](https://direct.mit.edu/books/monograph/3869/chapter-abstract/162859/Kinematic-Representation?redirectedFrom=fulltext) <br> [Robotic Manipulation, Chapter 3.3](https://manipulation.csail.mit.edu/pick.html#spatial_algebra) <br> [Modern Robotics, Chapter 3.2](https://hades.mech.northwestern.edu/images/7/7f/MR.pdf) |
+| **Week 3** <br> Mon, <br> Sept 7 | No class; Labor Day |  |
+| **Week 3** <br> Wed, <br> Sept 9 | Forward and Inverse Kinematics | [Robotic Manipulation, Chapters 3.4 - 3.6](https://manipulation.csail.mit.edu/pick.html#kinematics) <br> [Modern Robotics, Chapters 4 and 6](https://hades.mech.northwestern.edu/images/7/7f/MR.pdf) |
+| **Week 4** <br> Mon, <br> Sept 14 | Quaternions | [Mechanics of Robotic Manipulation, Chapter 3.1](https://direct.mit.edu/books/monograph/3869/chapter-abstract/162859/Kinematic-Representation?redirectedFrom=fulltext) <br> [Modern Robotics, Appendix B.3](https://hades.mech.northwestern.edu/images/7/7f/MR.pdf) |
+| **Week 4** <br> Wed, <br> Sept 16 | Planar Kinematics | **Deadline: Assignment 1** <br> **Assignment 2 released** <br> [Mechanics of Robotic Manipulation, Chapter 2.2](https://direct.mit.edu/books/monograph/3869/chapter/162858/Kinematics) <br> [Modern Robotics, Chapter 2.2](https://hades.mech.northwestern.edu/images/7/7f/MR.pdf) |
+| **Week 5** <br> Mon, <br> Sept 21 | Spatial Kinematics I - Plucker Coordinates | [Mechanics of Robotic Manipulation, Chapter 2.3](https://direct.mit.edu/books/monograph/3869/chapter/162858/Kinematics) <br> [Modern Robotics, Chapter 3.3](https://hades.mech.northwestern.edu/images/7/7f/MR.pdf) |
+| **Week 5** <br> Wed, <br> Sept 23 | Spatial Kinematics II - Screw Coordinates | [Mechanics of Robotic Manipulation, Chapter 2.3](https://direct.mit.edu/books/monograph/3869/chapter/162858/Kinematics) <br> [Modern Robotics, Chapter 3.3](https://hades.mech.northwestern.edu/images/7/7f/MR.pdf) |
+| **Week 6** <br> Mon, <br> Sept 28 | Pick & Place and Path Planning (taught by [Yufei Wang](https://yufeiwang63.github.io)) | [Mechanics of Robotic Manipulation, Chapter 4.1](https://direct.mit.edu/books/monograph/3869/chapter/162860/Kinematic-Manipulation) <br> [Robotic Manipulation, Chapter 3](https://manipulation.csail.mit.edu/pick.html) |
+| **Week 6** <br> Wed, <br> Sept 30 | Constraint and  Reuleaux's Method | **Deadline: Assignment 2** <br> **Assignment 3 released** <br> [Mechanics of Robotic Manipulation, Chapter 2.3](https://direct.mit.edu/books/monograph/3869/chapter/162858/Kinematics) <br> [Modern Robotics, Chapter 2.5](https://hades.mech.northwestern.edu/images/7/7f/MR.pdf) |
+| **Week 7** <br> Mon, <br> Oct 5 | Representing Constraint | [Mechanics of Robotic Manipulation, Chapter 3.3](https://direct.mit.edu/books/monograph/3869/chapter/162859/Kinematic-Representation) |
+| **Week 7** <br> Wed, <br> Oct 7 | Manipulation in Clutter | **Deadline: Project Proposal** <br> [Mechanics of Robotic Manipulation, Chapter 4.3](https://direct.mit.edu/books/monograph/3869/chapter/162860/Kinematic-Manipulation) |
+| **Week 8** <br> Mon, <br> Oct 12 | No class; Fall break |   |
+| **Week 8** <br> Wed, <br> Oct 14 | No class; Fall break |   |
+| **Week 9** <br> Mon, <br> Oct 19 | Foundations of Statics |   |
+| **Week 9** <br> Wed, <br> Oct 21 | Polyhedral Convex Cones | **Deadline: Assignment 3** <br> **Assignment 4 released** |
+| **Week 10** <br> Mon, <br> Oct 26 | Friction |   |
+| **Week 10** <br> Wed, <br> Oct 28 |  |   |
+| **Week 11** <br> Mon, <br> Nov 2 | No class |   |
+| **Week 11** <br> Wed, <br> Nov 4 | Planar Sliding | **Deadline: Assignment 4** <br> **Assignment 5 released** |
+| **Week 12** <br> Mon, <br> Nov 9 | Pushing |   |
+| **Week 12** <br> Wed, <br> Nov 11 | Grasps, Fixtures, Closures |   |
+| **Week 13** <br> Mon, <br> Nov 16 | Force Control |   |
+| **Week 13** <br> Wed, <br> Nov 18 | Rigid Body Dynamics |  |
+| **Week 14** <br> Mon, <br> Nov 23 | Dynamics and Frictional Contact; Impact | **Deadline: Assignment 5** |
+| **Week 14** <br> Wed, <br> Nov 25 | No class; Thanksgiving break | **Deadline (Nov 29): Google Slides for <br> your project presentation** |
+| **Week 15** <br> Mon, <br> Nov 30 | Course Project Presentations |  |
+| **Week 15** <br> Wed, <br> Dec 2 | Course Project Presentations | **Deadline: Course project paper** |
 
 
 
