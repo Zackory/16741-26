@@ -54,14 +54,14 @@ Modern Robotics: Mechanics, Planning, and Control, by Kevin M. Lynch and Frank C
 | **Week 7** <br> Wed, <br> Oct 7 | Manipulation in Clutter | **Deadline: Project Proposal** <br> [Mechanics of Robotic Manipulation, Chapter 4.3](https://direct.mit.edu/books/monograph/3869/chapter/162860/Kinematic-Manipulation) |
 | **Week 8** <br> Mon, <br> Oct 12 | No class; Fall break |   |
 | **Week 8** <br> Wed, <br> Oct 14 | No class; Fall break |   |
-| **Week 9** <br> Mon, <br> Oct 19 | Robot Learning for Manipulation and <br> How Mechanics Impacts Learning |   |
-| **Week 9** <br> Wed, <br> Oct 21 | Foundations of Statics | **Deadline: Assignment 3** <br> **Assignment 4 released** |
-| **Week 10** <br> Mon, <br> Oct 26 | Polyhedral Convex Cones |   |
-| **Week 10** <br> Wed, <br> Oct 28 | Friction |   |
+| **Week 9** <br> Mon, <br> Oct 19 | Foundations of Statics |   |
+| **Week 9** <br> Wed, <br> Oct 21 | Polyhedral Convex Cones | **Deadline: Assignment 3** <br> **Assignment 4 released** |
+| **Week 10** <br> Mon, <br> Oct 26 | Friction |   |
+| **Week 10** <br> Wed, <br> Oct 28 | Planar Sliding |   |
 | **Week 11** <br> Mon, <br> Nov 2 | No class |   |
-| **Week 11** <br> Wed, <br> Nov 4 | Planar Sliding | **Deadline: Assignment 4** <br> **Assignment 5 released** |
-| **Week 12** <br> Mon, <br> Nov 9 | Pushing |   |
-| **Week 12** <br> Wed, <br> Nov 11 | Grasps, Fixtures, Closures |   |
+| **Week 11** <br> Wed, <br> Nov 4 | Pushing | **Deadline: Assignment 4** <br> **Assignment 5 released** |
+| **Week 12** <br> Mon, <br> Nov 9 | Grasps, Fixtures, Closures |   |
+| **Week 12** <br> Wed, <br> Nov 11 | Robot Learning for Manipulation and <br> How Mechanics Impacts Learning |   |
 | **Week 13** <br> Mon, <br> Nov 16 | Force Control |   |
 | **Week 13** <br> Wed, <br> Nov 18 | Rigid Body Dynamics |  |
 | **Week 14** <br> Mon, <br> Nov 23 | Dynamics and Frictional Contact; Impact | **Deadline: Assignment 5** |
