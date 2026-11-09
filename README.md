@@ -61,8 +61,8 @@ Modern Robotics: Mechanics, Planning, and Control, by Kevin M. Lynch and Frank C
 | **Week 11** <br> Mon, <br> Nov 2 | No class |   |
 | **Week 11** <br> Wed, <br> Nov 4 | Pushing | **Deadline: Assignment 4** <br> **Assignment 5 released** |
 | **Week 12** <br> Mon, <br> Nov 9 | Grasps, Fixtures, Closures |   |
-| **Week 12** <br> Wed, <br> Nov 11 | Robot Learning for Manipulation and <br> How Mechanics Impacts Learning |   |
-| **Week 13** <br> Mon, <br> Nov 16 | Force Control |   |
+| **Week 12** <br> Wed, <br> Nov 11 | Force Control |   |
+| **Week 13** <br> Mon, <br> Nov 16 | Robot Learning for Manipulation and <br> How Mechanics Impacts Learning |   |
 | **Week 13** <br> Wed, <br> Nov 18 | Rigid Body Dynamics |  |
 | **Week 14** <br> Mon, <br> Nov 23 | Dynamics and Frictional Contact; Impact | **Deadline: Assignment 5** |
 | **Week 14** <br> Wed, <br> Nov 25 | No class; Thanksgiving break | **Deadline (Nov 28): Google Slides for <br> your project presentation** |
